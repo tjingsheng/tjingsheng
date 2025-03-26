@@ -20,5 +20,5 @@ Come visit me on my website at [tanjingsheng.com](https://tanjingsheng.com/)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tjingsheng&show_icons=true&locale=en&layout=compact&theme=dark)
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-
-![Streak Stats](https://streak-stats.demolab.com/?user=tjingsheng&theme=dark)
+<!-- Temporarily removed due to github api issue -->
+<!-- [Streak Stats](https://streak-stats.demolab.com/?user=tjingsheng&theme=dark) -->
